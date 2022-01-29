@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  java-amazon-corretto-1106:
+    image: amazoncorretto:11.0.6
+    container_name: java-amazon-corretto-1106
+    volumes:
+      - .:/opt/liferay/home/data
+    command:  
+      - /bin/bash
+
+# docker run -it --name="java11" -v ${pwd}:/var amazoncorretto:11.0.6 bash
