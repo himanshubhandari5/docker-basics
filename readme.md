@@ -1,9 +1,8 @@
 # Introduction
 
 - This repo supposed to contain my docker learning, just like other \*-basics series
-- For now only 2 folders I have(not even sure when I created these on my system), which I am adding.
-- Will try to create everything from scratch, with better comments in future
 
-## More
+## Directory descriptions
 
-- The repo under Java/vscode-remote-try-java is downloaded from [Microsoft Github Repo](https://github.com/Microsoft/vscode-remote-try-java)
+- 101 and 102 I am trying to create some Dockerfiles
+- 103 is from one of the course of [Stephen Grider](https://www.udemy.com/user/sgslo/)
